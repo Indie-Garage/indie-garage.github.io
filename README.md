@@ -3,6 +3,8 @@ Freelancer Jekyll theme
 
 Jekyll theme based on [Freelancer bootstrap theme ](https://startbootstrap.com/template-overviews/freelancer/)
 
+To execute: `bundle exec jekyll serve`
+
 ## How to use
  - Place a image in `/img/portfolio/`
  - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](https://formspree.io/) for more information.
